@@ -28,6 +28,7 @@ Features
 
 
 
+
 Technologies Used
 
 
@@ -72,7 +73,7 @@ How to Run
 
 1\. Clone the repository
 
-git clone https://github.com/your-username/CLI-To-Do-App.git
+git clone https://github.com/ebrardeveloperr/CLI-TO-DO-APP-in-Python
 
 
 
